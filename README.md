@@ -1,4 +1,4 @@
-# May the force be with you! 🤓
+# May the force be with you! 🖖
 
 My names is Breno Sartori, I'm from Brazil. I am a future data scientist starting my learning journey in 2021. 🙋‍♂️
 
