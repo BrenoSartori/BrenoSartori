@@ -1,6 +1,6 @@
 # May the force be with you! 🖖
 
-My names is Breno Sartori, I'm from Brazil. I am a future data scientist starting my learning journey in 2021. 🙋‍♂️
+My names is Breno Sartori, I'm from Brazil. I am a future data analyst starting my learning journey🙋‍♂️
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
